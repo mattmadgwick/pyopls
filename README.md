@@ -21,14 +21,10 @@ target) and feature PLS loadings (from permutations of the features).
 
 
 ## Installation
-pyopls is available via [pypi](https://pypi.org/project/pyopls/):
-```shell
-pip install pyopls
-```
 You may also install directly from this repository for the current
 master: 
 ```shell
-pip install git+git://github.com/BiRG/pyopls.git
+pip install git+git://github.com/mattmadgwick/pyopls.git
 ```
 New versions are uploaded to pypi whenever the version number is
 incremented in `setup.py` on the master branch.
